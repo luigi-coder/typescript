@@ -1,0 +1,1 @@
+(()=>{"use strict";var n=new function(n){this.nombre="Andy"}("Andy");console.log(n.nombre)})();
